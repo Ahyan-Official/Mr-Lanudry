@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259435140910",
+    "firebase_url": "https://stellar-code-277105.firebaseio.com",
+    "project_id": "stellar-code-277105",
+    "storage_bucket": "stellar-code-277105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259435140910:android:3cf1d76c22c10a9a5accbf",
+        "android_client_info": {
+          "package_name": "com.mrlanudry.srilanka.app.az294"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259435140910-tbsgp94ihs098vno4ik70l7gch0pl2ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrlanudry.srilanka.app.az294",
+            "certificate_hash": "995211d594177dcb23a1da486f757ef5a927a4c4"
+          }
+        },
+        {
+          "client_id": "259435140910-hk6dsj8u0j7vlm8dj8muqj2hirl556c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqJxKGWKlTtUsIqcTdtN0i6sEaEal-nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259435140910-hk6dsj8u0j7vlm8dj8muqj2hirl556c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
